@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">QuizPract</string>
+    
+    <string name="true_btn">True</string>
+    <string name="false_btn">False</string>
+    <string name="score_view">Score is 0/3</string>
+
+    <string name="wrong_toast">Wrong</string>
+    <string name="right_toast">You got it</string>
+
+    <string name="question_1">The square root of 49 is 7</string>
+    <string name="question_2">Each step that you take is approximately 1 meter</string>
+    <string name="question_3">Love should be unconditional</string>
+
+    <string name="alert_box_title_tag">alert title</string>
+    <string name="alert_title">Game Over!!!</string>
+
+</resources>
